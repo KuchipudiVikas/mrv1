@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  /* background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(27, 21, 95, 1) 15%, rgba(47, 37, 140, 1) 38%, rgba(34, 86, 172, 1) 55%, rgba(55, 9, 121, 1) 79%, rgba(0, 212, 255, 1) 100%); */
+
+
+}
+
+body {
+  background-image: url(./bg.jpg);
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+}
